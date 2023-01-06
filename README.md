@@ -10,8 +10,4 @@ Then run `pnpm dev` to start the development server.
 
 You can rename the project by changing the `name` field in `package.json`.
 
-
-
-
-
-### Template Last Updated: 15 December 2022
+### Template Last Updated: 05 January 2023
